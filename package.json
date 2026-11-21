@@ -1,0 +1,15 @@
+{
+  "name": "x-x-xxxterfusion",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bilibili Toy video-linked rhythm memory experiment; source only",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:python": "python -m unittest discover -s tests -p \"test_*.py\"",
+    "audit:public": "python tools/audit_public.py"
+  }
+}

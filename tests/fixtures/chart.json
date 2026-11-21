@@ -1,0 +1,2265 @@
+{
+  "version": 3,
+  "synthetic": true,
+  "title": "Original synthetic test fixture - no song transcription",
+  "sourceName": "generated-for-unit-tests",
+  "ticksPerBeat": 96,
+  "midiDurationMs": 90000,
+  "rounds": [
+    {
+      "id": 1,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 1000,
+      "answerStartMs": 3000,
+      "endMs": 5000,
+      "demoNotes": [
+        {
+          "id": "synthetic-1-demo-0",
+          "tick": 192,
+          "midiMs": 1000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-demo-1",
+          "tick": 269,
+          "midiMs": 1400.0,
+          "beat": 0.8,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-demo-2",
+          "tick": 346,
+          "midiMs": 1800.0,
+          "beat": 1.6,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-demo-3",
+          "tick": 422,
+          "midiMs": 2200.0,
+          "beat": 2.4,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-demo-4",
+          "tick": 499,
+          "midiMs": 2600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-1-answer-0",
+          "tick": 576,
+          "midiMs": 3000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-answer-1",
+          "tick": 653,
+          "midiMs": 3400.0,
+          "beat": 0.8,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-answer-2",
+          "tick": 730,
+          "midiMs": 3800.0,
+          "beat": 1.6,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-answer-3",
+          "tick": 806,
+          "midiMs": 4200.0,
+          "beat": 2.4,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-1-answer-4",
+          "tick": 883,
+          "midiMs": 4600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 6000,
+      "answerStartMs": 8000,
+      "endMs": 10000,
+      "demoNotes": [
+        {
+          "id": "synthetic-2-demo-0",
+          "tick": 1152,
+          "midiMs": 6000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-demo-1",
+          "tick": 1213,
+          "midiMs": 6320.0,
+          "beat": 0.64,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-demo-2",
+          "tick": 1275,
+          "midiMs": 6640.0,
+          "beat": 1.28,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-demo-3",
+          "tick": 1336,
+          "midiMs": 6960.0,
+          "beat": 1.92,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-demo-4",
+          "tick": 1398,
+          "midiMs": 7280.0,
+          "beat": 2.56,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-demo-5",
+          "tick": 1459,
+          "midiMs": 7600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-2-answer-0",
+          "tick": 1536,
+          "midiMs": 8000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-answer-1",
+          "tick": 1597,
+          "midiMs": 8320.0,
+          "beat": 0.64,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-answer-2",
+          "tick": 1659,
+          "midiMs": 8640.0,
+          "beat": 1.28,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-answer-3",
+          "tick": 1720,
+          "midiMs": 8960.0,
+          "beat": 1.92,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-answer-4",
+          "tick": 1782,
+          "midiMs": 9280.0,
+          "beat": 2.56,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-2-answer-5",
+          "tick": 1843,
+          "midiMs": 9600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 11000,
+      "answerStartMs": 13000,
+      "endMs": 15000,
+      "demoNotes": [
+        {
+          "id": "synthetic-3-demo-0",
+          "tick": 2112,
+          "midiMs": 11000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-1",
+          "tick": 2163,
+          "midiMs": 11266.666667,
+          "beat": 0.533333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-2",
+          "tick": 2214,
+          "midiMs": 11533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-3",
+          "tick": 2266,
+          "midiMs": 11800.0,
+          "beat": 1.6,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-4",
+          "tick": 2317,
+          "midiMs": 12066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-5",
+          "tick": 2368,
+          "midiMs": 12333.333333,
+          "beat": 2.666667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-demo-6",
+          "tick": 2419,
+          "midiMs": 12600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-3-answer-0",
+          "tick": 2496,
+          "midiMs": 13000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-1",
+          "tick": 2547,
+          "midiMs": 13266.666667,
+          "beat": 0.533333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-2",
+          "tick": 2598,
+          "midiMs": 13533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-3",
+          "tick": 2650,
+          "midiMs": 13800.0,
+          "beat": 1.6,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-4",
+          "tick": 2701,
+          "midiMs": 14066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-5",
+          "tick": 2752,
+          "midiMs": 14333.333333,
+          "beat": 2.666667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-3-answer-6",
+          "tick": 2803,
+          "midiMs": 14600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 16000,
+      "answerStartMs": 18000,
+      "endMs": 20000,
+      "demoNotes": [
+        {
+          "id": "synthetic-4-demo-0",
+          "tick": 3072,
+          "midiMs": 16000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-demo-1",
+          "tick": 3174,
+          "midiMs": 16533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-demo-2",
+          "tick": 3277,
+          "midiMs": 17066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-demo-3",
+          "tick": 3379,
+          "midiMs": 17600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-4-answer-0",
+          "tick": 3456,
+          "midiMs": 18000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-answer-1",
+          "tick": 3558,
+          "midiMs": 18533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-answer-2",
+          "tick": 3661,
+          "midiMs": 19066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-4-answer-3",
+          "tick": 3763,
+          "midiMs": 19600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 21000,
+      "answerStartMs": 23000,
+      "endMs": 25000,
+      "demoNotes": [
+        {
+          "id": "synthetic-5-demo-0",
+          "tick": 4032,
+          "midiMs": 21000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-demo-1",
+          "tick": 4134,
+          "midiMs": 21533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-demo-2",
+          "tick": 4237,
+          "midiMs": 22066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-demo-3",
+          "tick": 4339,
+          "midiMs": 22600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-5-answer-0",
+          "tick": 4416,
+          "midiMs": 23000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-answer-1",
+          "tick": 4518,
+          "midiMs": 23533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-answer-2",
+          "tick": 4621,
+          "midiMs": 24066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-5-answer-3",
+          "tick": 4723,
+          "midiMs": 24600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 26000,
+      "answerStartMs": 28000,
+      "endMs": 30000,
+      "demoNotes": [
+        {
+          "id": "synthetic-6-demo-0",
+          "tick": 4992,
+          "midiMs": 26000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-demo-1",
+          "tick": 5094,
+          "midiMs": 26533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-demo-2",
+          "tick": 5197,
+          "midiMs": 27066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-demo-3",
+          "tick": 5299,
+          "midiMs": 27600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-6-answer-0",
+          "tick": 5376,
+          "midiMs": 28000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-answer-1",
+          "tick": 5478,
+          "midiMs": 28533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-answer-2",
+          "tick": 5581,
+          "midiMs": 29066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-6-answer-3",
+          "tick": 5683,
+          "midiMs": 29600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 31000,
+      "answerStartMs": 33000,
+      "endMs": 35000,
+      "demoNotes": [
+        {
+          "id": "synthetic-7-demo-0",
+          "tick": 5952,
+          "midiMs": 31000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-demo-1",
+          "tick": 6054,
+          "midiMs": 31533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-demo-2",
+          "tick": 6157,
+          "midiMs": 32066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-demo-3",
+          "tick": 6259,
+          "midiMs": 32600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-7-answer-0",
+          "tick": 6336,
+          "midiMs": 33000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-answer-1",
+          "tick": 6438,
+          "midiMs": 33533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-answer-2",
+          "tick": 6541,
+          "midiMs": 34066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-7-answer-3",
+          "tick": 6643,
+          "midiMs": 34600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 36000,
+      "answerStartMs": 38000,
+      "endMs": 40000,
+      "demoNotes": [
+        {
+          "id": "synthetic-8-demo-0",
+          "tick": 6912,
+          "midiMs": 36000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-demo-1",
+          "tick": 7014,
+          "midiMs": 36533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-demo-2",
+          "tick": 7117,
+          "midiMs": 37066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-demo-3",
+          "tick": 7219,
+          "midiMs": 37600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-8-answer-0",
+          "tick": 7296,
+          "midiMs": 38000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-answer-1",
+          "tick": 7398,
+          "midiMs": 38533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-answer-2",
+          "tick": 7501,
+          "midiMs": 39066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-8-answer-3",
+          "tick": 7603,
+          "midiMs": 39600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 41000,
+      "answerStartMs": 43000,
+      "endMs": 45000,
+      "demoNotes": [
+        {
+          "id": "synthetic-9-demo-0",
+          "tick": 7872,
+          "midiMs": 41000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-demo-1",
+          "tick": 7974,
+          "midiMs": 41533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-demo-2",
+          "tick": 8077,
+          "midiMs": 42066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-demo-3",
+          "tick": 8179,
+          "midiMs": 42600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-9-answer-0",
+          "tick": 8256,
+          "midiMs": 43000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-answer-1",
+          "tick": 8358,
+          "midiMs": 43533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-answer-2",
+          "tick": 8461,
+          "midiMs": 44066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-9-answer-3",
+          "tick": 8563,
+          "midiMs": 44600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 46000,
+      "answerStartMs": 48000,
+      "endMs": 50000,
+      "demoNotes": [
+        {
+          "id": "synthetic-10-demo-0",
+          "tick": 8832,
+          "midiMs": 46000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-demo-1",
+          "tick": 8934,
+          "midiMs": 46533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-demo-2",
+          "tick": 9037,
+          "midiMs": 47066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-demo-3",
+          "tick": 9139,
+          "midiMs": 47600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-10-answer-0",
+          "tick": 9216,
+          "midiMs": 48000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-answer-1",
+          "tick": 9318,
+          "midiMs": 48533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-answer-2",
+          "tick": 9421,
+          "midiMs": 49066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-10-answer-3",
+          "tick": 9523,
+          "midiMs": 49600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 51000,
+      "answerStartMs": 53000,
+      "endMs": 55000,
+      "demoNotes": [
+        {
+          "id": "synthetic-11-demo-0",
+          "tick": 9792,
+          "midiMs": 51000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-demo-1",
+          "tick": 9894,
+          "midiMs": 51533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-demo-2",
+          "tick": 9997,
+          "midiMs": 52066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-demo-3",
+          "tick": 10099,
+          "midiMs": 52600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-11-answer-0",
+          "tick": 10176,
+          "midiMs": 53000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-answer-1",
+          "tick": 10278,
+          "midiMs": 53533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-answer-2",
+          "tick": 10381,
+          "midiMs": 54066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-11-answer-3",
+          "tick": 10483,
+          "midiMs": 54600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 56000,
+      "answerStartMs": 58000,
+      "endMs": 60000,
+      "demoNotes": [
+        {
+          "id": "synthetic-12-demo-0",
+          "tick": 10752,
+          "midiMs": 56000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-demo-1",
+          "tick": 10854,
+          "midiMs": 56533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-demo-2",
+          "tick": 10957,
+          "midiMs": 57066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-demo-3",
+          "tick": 11059,
+          "midiMs": 57600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-12-answer-0",
+          "tick": 11136,
+          "midiMs": 58000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-answer-1",
+          "tick": 11238,
+          "midiMs": 58533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-answer-2",
+          "tick": 11341,
+          "midiMs": 59066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-12-answer-3",
+          "tick": 11443,
+          "midiMs": 59600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 61000,
+      "answerStartMs": 63000,
+      "endMs": 65000,
+      "demoNotes": [
+        {
+          "id": "synthetic-13-demo-0",
+          "tick": 11712,
+          "midiMs": 61000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-demo-1",
+          "tick": 11814,
+          "midiMs": 61533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-demo-2",
+          "tick": 11917,
+          "midiMs": 62066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-demo-3",
+          "tick": 12019,
+          "midiMs": 62600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-13-answer-0",
+          "tick": 12096,
+          "midiMs": 63000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-answer-1",
+          "tick": 12198,
+          "midiMs": 63533.333333,
+          "beat": 1.066667,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-answer-2",
+          "tick": 12301,
+          "midiMs": 64066.666667,
+          "beat": 2.133333,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-13-answer-3",
+          "tick": 12403,
+          "midiMs": 64600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "beatsPerPhrase": 4,
+      "demoStartMs": 66000,
+      "answerStartMs": 68000,
+      "endMs": 70000,
+      "demoNotes": [
+        {
+          "id": "synthetic-14-demo-0",
+          "tick": 12672,
+          "midiMs": 66000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-1",
+          "tick": 12716,
+          "midiMs": 66228.571429,
+          "beat": 0.457143,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-2",
+          "tick": 12760,
+          "midiMs": 66457.142857,
+          "beat": 0.914286,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-3",
+          "tick": 12804,
+          "midiMs": 66685.714286,
+          "beat": 1.371429,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-4",
+          "tick": 12848,
+          "midiMs": 66914.285714,
+          "beat": 1.828571,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-5",
+          "tick": 12891,
+          "midiMs": 67142.857143,
+          "beat": 2.285714,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-6",
+          "tick": 12935,
+          "midiMs": 67371.428571,
+          "beat": 2.742857,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-demo-7",
+          "tick": 12979,
+          "midiMs": 67600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "synthetic-14-answer-0",
+          "tick": 13056,
+          "midiMs": 68000.0,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-1",
+          "tick": 13100,
+          "midiMs": 68228.571429,
+          "beat": 0.457143,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-2",
+          "tick": 13144,
+          "midiMs": 68457.142857,
+          "beat": 0.914286,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-3",
+          "tick": 13188,
+          "midiMs": 68685.714286,
+          "beat": 1.371429,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-4",
+          "tick": 13232,
+          "midiMs": 68914.285714,
+          "beat": 1.828571,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-5",
+          "tick": 13275,
+          "midiMs": 69142.857143,
+          "beat": 2.285714,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-6",
+          "tick": 13319,
+          "midiMs": 69371.428571,
+          "beat": 2.742857,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-14-answer-7",
+          "tick": 13363,
+          "midiMs": 69600.0,
+          "beat": 3.2,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    }
+  ],
+  "challengeRounds": [
+    {
+      "id": 15,
+      "kind": "stream",
+      "label": "Synthetic fast notes",
+      "beatsPerPhrase": 24,
+      "demoStartMs": 72000,
+      "answerStartMs": 72000,
+      "endMs": 84100,
+      "demoNotes": [],
+      "notes": [
+        {
+          "id": "synthetic-tail-0",
+          "tick": 13824,
+          "midiMs": 72000,
+          "beat": 0.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-1",
+          "tick": 13848,
+          "midiMs": 72125,
+          "beat": 0.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-2",
+          "tick": 13872,
+          "midiMs": 72250,
+          "beat": 0.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-3",
+          "tick": 13896,
+          "midiMs": 72375,
+          "beat": 0.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-4",
+          "tick": 13920,
+          "midiMs": 72500,
+          "beat": 1.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-5",
+          "tick": 13944,
+          "midiMs": 72625,
+          "beat": 1.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-6",
+          "tick": 13968,
+          "midiMs": 72750,
+          "beat": 1.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-7",
+          "tick": 13992,
+          "midiMs": 72875,
+          "beat": 1.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-8",
+          "tick": 14016,
+          "midiMs": 73000,
+          "beat": 2.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-9",
+          "tick": 14040,
+          "midiMs": 73125,
+          "beat": 2.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-10",
+          "tick": 14064,
+          "midiMs": 73250,
+          "beat": 2.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-11",
+          "tick": 14088,
+          "midiMs": 73375,
+          "beat": 2.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-12",
+          "tick": 14112,
+          "midiMs": 73500,
+          "beat": 3.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-13",
+          "tick": 14136,
+          "midiMs": 73625,
+          "beat": 3.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-14",
+          "tick": 14160,
+          "midiMs": 73750,
+          "beat": 3.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-15",
+          "tick": 14184,
+          "midiMs": 73875,
+          "beat": 3.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-16",
+          "tick": 14208,
+          "midiMs": 74000,
+          "beat": 4.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-17",
+          "tick": 14232,
+          "midiMs": 74125,
+          "beat": 4.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-18",
+          "tick": 14256,
+          "midiMs": 74250,
+          "beat": 4.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-19",
+          "tick": 14280,
+          "midiMs": 74375,
+          "beat": 4.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-20",
+          "tick": 14304,
+          "midiMs": 74500,
+          "beat": 5.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-21",
+          "tick": 14328,
+          "midiMs": 74625,
+          "beat": 5.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-22",
+          "tick": 14352,
+          "midiMs": 74750,
+          "beat": 5.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-23",
+          "tick": 14376,
+          "midiMs": 74875,
+          "beat": 5.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-24",
+          "tick": 14400,
+          "midiMs": 75000,
+          "beat": 6.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-25",
+          "tick": 14424,
+          "midiMs": 75125,
+          "beat": 6.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-26",
+          "tick": 14448,
+          "midiMs": 75250,
+          "beat": 6.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-27",
+          "tick": 14472,
+          "midiMs": 75375,
+          "beat": 6.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-28",
+          "tick": 14496,
+          "midiMs": 75500,
+          "beat": 7.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-29",
+          "tick": 14520,
+          "midiMs": 75625,
+          "beat": 7.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-30",
+          "tick": 14544,
+          "midiMs": 75750,
+          "beat": 7.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-31",
+          "tick": 14568,
+          "midiMs": 75875,
+          "beat": 7.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-32",
+          "tick": 14592,
+          "midiMs": 76000,
+          "beat": 8.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-33",
+          "tick": 14616,
+          "midiMs": 76125,
+          "beat": 8.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-34",
+          "tick": 14640,
+          "midiMs": 76250,
+          "beat": 8.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-35",
+          "tick": 14664,
+          "midiMs": 76375,
+          "beat": 8.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-36",
+          "tick": 14688,
+          "midiMs": 76500,
+          "beat": 9.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-37",
+          "tick": 14712,
+          "midiMs": 76625,
+          "beat": 9.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-38",
+          "tick": 14736,
+          "midiMs": 76750,
+          "beat": 9.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-39",
+          "tick": 14760,
+          "midiMs": 76875,
+          "beat": 9.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-40",
+          "tick": 14784,
+          "midiMs": 77000,
+          "beat": 10.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-41",
+          "tick": 14808,
+          "midiMs": 77125,
+          "beat": 10.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-42",
+          "tick": 14832,
+          "midiMs": 77250,
+          "beat": 10.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-43",
+          "tick": 14856,
+          "midiMs": 77375,
+          "beat": 10.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-44",
+          "tick": 14880,
+          "midiMs": 77500,
+          "beat": 11.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-45",
+          "tick": 14904,
+          "midiMs": 77625,
+          "beat": 11.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-46",
+          "tick": 14928,
+          "midiMs": 77750,
+          "beat": 11.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-47",
+          "tick": 14952,
+          "midiMs": 77875,
+          "beat": 11.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-48",
+          "tick": 14976,
+          "midiMs": 78000,
+          "beat": 12.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-49",
+          "tick": 15000,
+          "midiMs": 78125,
+          "beat": 12.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-50",
+          "tick": 15024,
+          "midiMs": 78250,
+          "beat": 12.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-51",
+          "tick": 15048,
+          "midiMs": 78375,
+          "beat": 12.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-52",
+          "tick": 15072,
+          "midiMs": 78500,
+          "beat": 13.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-53",
+          "tick": 15096,
+          "midiMs": 78625,
+          "beat": 13.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-54",
+          "tick": 15120,
+          "midiMs": 78750,
+          "beat": 13.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-55",
+          "tick": 15144,
+          "midiMs": 78875,
+          "beat": 13.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-56",
+          "tick": 15168,
+          "midiMs": 79000,
+          "beat": 14.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-57",
+          "tick": 15192,
+          "midiMs": 79125,
+          "beat": 14.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-58",
+          "tick": 15216,
+          "midiMs": 79250,
+          "beat": 14.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-59",
+          "tick": 15240,
+          "midiMs": 79375,
+          "beat": 14.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-60",
+          "tick": 15264,
+          "midiMs": 79500,
+          "beat": 15.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-61",
+          "tick": 15288,
+          "midiMs": 79625,
+          "beat": 15.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-62",
+          "tick": 15312,
+          "midiMs": 79750,
+          "beat": 15.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-63",
+          "tick": 15336,
+          "midiMs": 79875,
+          "beat": 15.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-64",
+          "tick": 15360,
+          "midiMs": 80000,
+          "beat": 16.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-65",
+          "tick": 15384,
+          "midiMs": 80125,
+          "beat": 16.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-66",
+          "tick": 15408,
+          "midiMs": 80250,
+          "beat": 16.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-67",
+          "tick": 15432,
+          "midiMs": 80375,
+          "beat": 16.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-68",
+          "tick": 15456,
+          "midiMs": 80500,
+          "beat": 17.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-69",
+          "tick": 15480,
+          "midiMs": 80625,
+          "beat": 17.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-70",
+          "tick": 15504,
+          "midiMs": 80750,
+          "beat": 17.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-71",
+          "tick": 15528,
+          "midiMs": 80875,
+          "beat": 17.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-72",
+          "tick": 15552,
+          "midiMs": 81000,
+          "beat": 18.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-73",
+          "tick": 15576,
+          "midiMs": 81125,
+          "beat": 18.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-74",
+          "tick": 15600,
+          "midiMs": 81250,
+          "beat": 18.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-75",
+          "tick": 15624,
+          "midiMs": 81375,
+          "beat": 18.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-76",
+          "tick": 15648,
+          "midiMs": 81500,
+          "beat": 19.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-77",
+          "tick": 15672,
+          "midiMs": 81625,
+          "beat": 19.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-78",
+          "tick": 15696,
+          "midiMs": 81750,
+          "beat": 19.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-79",
+          "tick": 15720,
+          "midiMs": 81875,
+          "beat": 19.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-80",
+          "tick": 15744,
+          "midiMs": 82000,
+          "beat": 20.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-81",
+          "tick": 15768,
+          "midiMs": 82125,
+          "beat": 20.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-82",
+          "tick": 15792,
+          "midiMs": 82250,
+          "beat": 20.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-83",
+          "tick": 15816,
+          "midiMs": 82375,
+          "beat": 20.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-84",
+          "tick": 15840,
+          "midiMs": 82500,
+          "beat": 21.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-85",
+          "tick": 15864,
+          "midiMs": 82625,
+          "beat": 21.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-86",
+          "tick": 15888,
+          "midiMs": 82750,
+          "beat": 21.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-87",
+          "tick": 15912,
+          "midiMs": 82875,
+          "beat": 21.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-88",
+          "tick": 15936,
+          "midiMs": 83000,
+          "beat": 22.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-89",
+          "tick": 15960,
+          "midiMs": 83125,
+          "beat": 22.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-90",
+          "tick": 15984,
+          "midiMs": 83250,
+          "beat": 22.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-91",
+          "tick": 16008,
+          "midiMs": 83375,
+          "beat": 22.75,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-92",
+          "tick": 16032,
+          "midiMs": 83500,
+          "beat": 23.0,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-93",
+          "tick": 16056,
+          "midiMs": 83625,
+          "beat": 23.25,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-94",
+          "tick": 16080,
+          "midiMs": 83750,
+          "beat": 23.5,
+          "pitches": [
+            60
+          ]
+        },
+        {
+          "id": "synthetic-tail-95",
+          "tick": 16104,
+          "midiMs": 83875,
+          "beat": 23.75,
+          "pitches": [
+            60
+          ]
+        }
+      ]
+    }
+  ],
+  "totalTargets": 66,
+  "hardTotalTargets": 162,
+  "tempoMap": [
+    {
+      "tick": 0,
+      "midiMs": 0,
+      "bpm": 120
+    }
+  ],
+  "difficulties": [
+    {
+      "id": "easy",
+      "label": "easy",
+      "roundCount": 3,
+      "includeChallenge": false,
+      "targetCount": 18,
+      "endMs": 15000
+    },
+    {
+      "id": "normal",
+      "label": "normal",
+      "roundCount": 14,
+      "includeChallenge": false,
+      "targetCount": 66,
+      "endMs": 70000
+    },
+    {
+      "id": "hard",
+      "label": "hard",
+      "roundCount": 14,
+      "includeChallenge": true,
+      "targetCount": 162,
+      "endMs": 84100
+    }
+  ]
+}

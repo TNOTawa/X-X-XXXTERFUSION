@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="dark"><link rel="icon" href="data:,"><title>X X XXXTERFUSION · 记忆复奏</title><link rel="stylesheet" href="./style.css"></head>
+<body>
+  <div id="local-player" data-ui><video id="pv" controls playsinline preload="metadata" src="./media/pv.mp4" aria-label="Xterfusion PV与互动谱面"></video></div>
+  <main id="panel" data-screen="menu" aria-label="全区域节奏操控面板">
+    <p id="environment-notice" class="quiet" role="status">正式游玩请使用最新版哔哩哔哩 App，从配套视频打开半屏 Toy。</p>
+    <p id="error" role="alert" hidden></p>
+    <section id="menu" class="screen" data-ui aria-labelledby="title">
+      <div class="menu-content"><p class="kicker">听 · 记住 · 接回来</p><h1 id="title"><span class="title-highlight">X X XXX</span>TERFUSION</h1><p class="subtitle">一块面板。整个页面都能敲。</p><p id="toy-sound-notice" class="quiet sound-notice" hidden>首次游玩请点 Toy 右上角的声音按钮开启音效。此处音量只调鼓点，不改变视频声音。</p>
+        <div class="difficulties" aria-label="选择难度即开始">
+          <button data-difficulty="easy" disabled><span>简单</span><small>18拍 · 前三轮</small></button>
+          <button data-difficulty="normal" disabled><span>普通</span><small>66拍 · 完整复奏</small></button>
+          <button data-difficulty="hard" disabled><span>硬核</span><small>162拍 · 含高速连打</small></button>
+        </div>
+        <p id="loading" class="quiet" role="status">正在加载音轨…</p>
+        <button id="calibrate" class="text-button" disabled>延迟校准</button><p id="calibration-summary" class="quiet">结果仅保存在本机</p>
+        <details id="settings"><summary>设置</summary><div class="settings-grid">
+          <label>素材偏移 <span><input id="media-offset" type="number" min="-1000" max="1000" step="1" value="14"> ms</span></label>
+          <label>输入补偿 <span><input id="input-offset" type="number" min="-350" max="350" step="1" value="0"> ms</span></label>
+          <label class="sound-setting"><input id="tap-sound" type="checkbox" checked> 原曲命中音效</label><button id="restore-offset" class="text-button">恢复素材对齐</button>
+          <label class="hit-volume-setting" for="hit-volume">鼓点音量 <span><input id="hit-volume" type="range" min="0" max="300" step="5" value="150"><output id="hit-volume-value" for="hit-volume">150%</output></span></label>
+        </div><p class="quiet">素材正值＝落点后移；输入正值＝补偿偏晚的敲击。首拍允许提前100 ms。</p></details>
+      </div>
+    </section>
+    <section id="game" class="screen" hidden aria-label="点击任意空白处击打">
+      <div class="game-controls" data-ui><button id="abort" class="text-button">选难度</button><details id="game-volume" class="compact-volume"><summary>鼓点音量</summary><div><label for="game-hit-volume">命中音效 <output id="game-hit-volume-value" for="game-hit-volume">150%</output></label><input id="game-hit-volume" type="range" min="0" max="300" step="5" value="150"><p class="quiet">没有鼓点声？请点 Toy 右上角开启声音。此处不调整视频音量。</p></div></details><button id="pause" class="text-button">暂停</button></div>
+      <div class="phase-content"><p id="phase-note" class="kicker">准备</p><h2 id="phase">听</h2><p id="feedback" aria-live="off">Space / F / J · 触摸任意空白处</p></div>
+      <p id="practice-indicator" class="quiet practice" hidden>练习模式 · 不入榜</p>
+    </section>
+    <section id="calibration" class="screen" hidden aria-label="设备延迟校准">
+      <div class="calibration-controls" data-ui><button id="cancel-calibration" class="text-button">取消校准</button></div>
+      <div class="phase-content"><p id="calibration-note" class="kicker">连续跟拍 · 随时加入</p><h2 id="calibration-phase">跟拍</h2><p id="calibration-feedback">跟随音乐，一拍一击</p><button id="resume-calibration" class="text-button" data-ui hidden>继续跟拍</button><button id="retry-calibration" class="text-button" data-ui hidden>重新校准</button></div>
+    </section>
+    <section id="result" class="screen" data-ui hidden aria-label="本次成绩与排行榜">
+      <div class="result-content"><p id="result-difficulty" class="kicker"></p><div class="achievement"><strong id="result-score">0.0000%</strong><span id="result-grade">C</span></div>
+        <p id="result-badge" class="result-badge"></p><p id="personal-best" class="quiet"></p>
+        <div id="judgements" class="judgements" aria-label="判定统计"></div><p id="result-notice" class="quiet"></p>
+        <p id="result-lock-note" class="quiet" role="status" hidden>结算保护中…稍后即可操作</p><div class="result-actions"><button id="retry">再来一次</button><button id="choose" class="secondary">重新选难度</button></div>
+        <section class="ranking" aria-label="当前难度全站排行榜"><div class="ranking-heading"><h3>全站准度榜</h3><button id="submit-score" class="text-button" hidden>提交本次成绩</button></div><p id="rank-status" class="quiet"></p><ol id="rank-list"></ol></section>
+      </div>
+    </section>
+  </main>
+  <script type="module" src="./app.mjs"></script>
+</body></html>

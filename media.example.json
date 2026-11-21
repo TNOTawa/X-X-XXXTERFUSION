@@ -1,0 +1,7 @@
+{
+  "video": "media/input.mp4",
+  "midi": "media/input.mid",
+  "backing": "media/backing-with-responses-removed.wav",
+  "drums": "media/drum-stem.wav",
+  "renderedVideo": "video/renders/X-X-XXXTERFUSION.mp4"
+}
